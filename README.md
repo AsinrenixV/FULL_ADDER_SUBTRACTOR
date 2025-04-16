@@ -1,4 +1,3 @@
-![fulladder](https://github.com/user-attachments/assets/b1c64c8c-f0ad-4729-adbe-c1d8829855ab)# FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
@@ -47,9 +46,12 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:212224040036
-Name:Asin Renix V
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: 
 */
+```
+RegisterNumber:212224040036
+Name:Asin Renix V
+```
 
 ```
 FULL SUBTRACTER:
